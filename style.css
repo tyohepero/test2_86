@@ -1,0 +1,21 @@
+body{
+    background-image: url(back.png);
+    background-repeat: repeat-x;
+}
+
+h1{
+    font-size: 340%;
+    text-align: center;
+    color: #003300;
+}
+
+h2{
+    font-style: italic;
+    color: #ffffff;
+    background-color: #99cc66;
+}
+
+a {
+    font-weight: bold;
+    line-height: 2;
+}
